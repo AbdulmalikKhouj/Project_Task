@@ -14,26 +14,26 @@ To run the Email Management System on your local machine, follow these steps:
 ### Installation
 1. Clone the repository:
    
-    git clone https://github.com/AbdullahMousa123/Assignment-I.git
-   
-3. Navigate to the project directory:
+   https://github.com/AbdulmalikKhouj/Project_Task.git   
+
+2. Navigate to the project directory:
    
     cd email-management
    
-4. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
    
     virtualenv venv
     source venv/bin/activate
    
-5. Install the dependencies:
+4. Install the dependencies:
    
     pip install -r requirements.txt
    
-6. Run the development server:
+5. Run the development server:
    
     python app.py
 
-7. Access the application at [http://127.0.0.1:5000/]
+6. Access the application at [http://127.0.0.1:5000/]
 
 ## Team Members
 Team Members
