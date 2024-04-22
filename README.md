@@ -36,7 +36,8 @@ To run the Email Management System on your local machine, follow these steps:
 7. Access the application at [http://127.0.0.1:5000/]
 
 ## Team Members
-- UA0213 Abdulmalik Khouj (GitHub: [johndoe](https://github.com/johndoe))
-- UA0414 Saif Alghamdi (GitHub: [johndoe](https://github.com/johndoe))
-- TA0396 Ahmed Alghamdi (GitHub: [alexjohnson](https://github.com/alexjohnson))
-- UB0109 Abdullah Mousa (GitHub: [emilybrown](https://github.com/emilybrown))
+Team Members
+- UA0213 Abdulmalik Khouj (GitHub: [Abdulmalik](https://github.com/AbdulmalikKhouj))
+- UA0414 Saif Alghamdi (GitHub: [Saif Alghamdi](https://github.com/SaifAlghamdi123))
+- TA0396 Ahmed Alghamdi (GitHub: [Ahmed Alghamdi](https://github.com/ahmedalghamdi123))
+- UB0109 Abdullah Mousa (GitHub: [Abdullah](https://github.com/AbdullahMousa123))
